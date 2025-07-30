@@ -1,2 +1,2 @@
-# .github
-Les infos sur Siro.
+# 👋 Siro
+Siro est une application pour aider les étudiants à s'organiser, faite par des étudiants.
